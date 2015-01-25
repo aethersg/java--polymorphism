@@ -9,4 +9,8 @@ public class Tree
         System.out.println("Tree growing");
         }
 
+    public void sharedLeaves()
+        {
+        System.out.println("leaves shedding");
+        }
     }
